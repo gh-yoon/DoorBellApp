@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1038468525134",
+    "firebase_url": "https://doorbellfcm.firebaseio.com",
+    "project_id": "doorbellfcm",
+    "storage_bucket": "doorbellfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038468525134:android:2afc0043ddbf4417",
+        "android_client_info": {
+          "package_name": "com.hdbsnc.doorbell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038468525134-etvhtu2atnlp54rs11tm5eui18bs2609.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFzhfLwLNQfohf4WkyJzKP7qcWXGt1qxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

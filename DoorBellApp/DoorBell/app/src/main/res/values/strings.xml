@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DoorBell</string>
+    <string name="option_menu">사용자 등록</string>
+</resources>
